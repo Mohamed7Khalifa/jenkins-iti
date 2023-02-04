@@ -1,3 +1,4 @@
+## Lab 1
 ### 1- install jenkins with docker image
 ```bash
     docker run -p 8008:8080 -d --name jenkins jenkins/jenkins:lts
@@ -18,6 +19,7 @@
 ![image info](Screenshot/lab1-q5-3.png)
 
 #################
+## Lab 2
 
 ### 1- create declarative in jenkins GUI pipeline for your own repo to do "ls"
 ![image info](Screenshot/lab2-q1-1.png)
