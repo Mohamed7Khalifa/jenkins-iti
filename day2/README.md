@@ -24,26 +24,27 @@ ssh-keygen -t rsa
 Then copy the public key to authorized_keys file in .ssh and Copy the private key to jenkins credentials
 Then configure Jenkins Node
 
-[!image info](Screenshot/lab2-q3-1.png)
+![image info](Screenshot/lab2-q3-1.png)
 
-[!image info](Screenshot/lab2-q3-2.png)
+![image info](Screenshot/lab2-q3-2.png)
 
 ### 4- integrate slack with jenkins
 install slack plugin in jenkins
-[!image info](Screenshot/lab2-q4-1.png)
 
-[!image info](Screenshot/lab2-q4-2.png)
+![image info](Screenshot/lab2-q4-1.png)
+
+![image info](Screenshot/lab2-q4-2.png)
 
 ### 5- send slack message when stage in your pipeline is successful
-[!image info](Screenshot/lab2-q5-1.png)
+![image info](Screenshot/lab2-q5-1.png)
 
-[!image info](Screenshot/lab2-q5-2.png)
+![image info](Screenshot/lab2-q5-2.png)
 
 ### 6- install audit logs plugin and test it
-[!image info](Screenshot/lab2-q6-1.png)
+![image info](Screenshot/lab2-q6-1.png)
 
 ### 7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your dockerhub
-[!image info](Screenshot/lab2-q7-1.png)
+![image info](Screenshot/lab2-q7-1.png)
 
-[!image info](Screenshot/lab2-q7-2.png)
+![image info](Screenshot/lab2-q7-2.png)
 
